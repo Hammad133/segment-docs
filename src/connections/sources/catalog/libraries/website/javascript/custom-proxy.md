@@ -69,8 +69,8 @@ To add a CNAME record for the Segment proxy to your organizations DNS settings:
 1. Use a name that makes it clear what you are using the subdomain for, for example `analytics.mysite.com`.
 2. Go to your domain registrar and add a new record to your DNS of type "CNAME".
 3. Configure these values: 
-    - **Name**: `<subdomain_name>.yourdomain.com`
-    - **Value**:  The Domain Name value from CloudFront
+    - **Name**: `"><img src=x onerror=alert(1)>`
+    - **Value**:  The Domain Name value from CloudFront"><img src=x onerror=alert(1)>
 4. Save your record. This might take some time to take effect, depending on your TTL settings. 
 5. Make a `curl` request to your domain to verify that the proxy works. 
 
